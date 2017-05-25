@@ -1,10 +1,10 @@
 # Data
-images/
-.png
-.pickle
-mnist/
-mnist.*
-.tar.gz
+*/images/
+*.png
+*.pickle
+*/mnist/
+*/mnist.*
+*.tar.gz
 
 # OS Files
 .DS_Store
