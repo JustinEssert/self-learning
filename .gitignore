@@ -1,9 +1,9 @@
 # Data
-*/images/
+images/
 *.png
 *.pickle
-*/mnist/
-*/mnist.*
+mnist/
+mnist.*
 *.tar.gz
 
 # OS Files
