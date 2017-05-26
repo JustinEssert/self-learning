@@ -6,6 +6,9 @@ mnist/
 mnist.*
 *.tar.gz
 
+# Saved Tensorflow Session
+*.ckpt.*
+
 # OS Files
 .DS_Store
 
