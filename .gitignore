@@ -5,6 +5,7 @@ images/
 mnist/
 mnist.*
 *.tar.gz
+*.csv
 
 # Saved Tensorflow Session
 *.ckpt.*
